@@ -12,8 +12,3 @@
 # Explore the live application below: 
 # https://usermanagementsynergy.netlify.app/
 
-# 2. UI Design Task
-# The second task showcases a thoughtfully designed user interface. This task focuses on creating a visually appealing and user-friendly UI.
-
-# Check out the live UI below:
-#  https://uitask02.netlify.app/
