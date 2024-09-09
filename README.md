@@ -16,4 +16,4 @@
 # The second task showcases a thoughtfully designed user interface. This task focuses on creating a visually appealing and user-friendly UI.
 
 # Check out the live UI below:
-#  https://uitasksynergy.netlify.app/ 
+#  https://uitask02.netlify.app/
